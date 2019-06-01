@@ -1,5 +1,6 @@
 # Graph Processing Using Breadth First Search Algorithm
 
+This is term project for a course that I took in fourth semester in university.
 In this program we have a file called kelime.txt and we are trying to make processes using it. The processes that we are make is listed below.
 
 **1-** Make an adjacency matrix from words in file. 
