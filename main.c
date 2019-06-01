@@ -223,7 +223,8 @@ int main(int argc, char **argv)
     printf("3 - Exit \n");
     printf("Welcome to graph processing. Make your selection : ");
     scanf("%d", &secim);
-    switch(secim) {
+    switch(secim) 
+    {
         case 1:
             printf("\n");
             printf("Finding adjacency between two words \n");
