@@ -1,6 +1,6 @@
 # Graph Operations Using Breadth First Search Algorithm
 
-**In this program we have a file called kelime.txt and we are trying to make operations using it. The operations that we are make is listed below.**
+**In this program we have a file called [kelime.txt](https://github.com/fzehracetin/graph-operations-using-breadth-first-search-algorithm-/blob/master/kelime.txt) and we are trying to make operations using it. The operations that we are make is listed below.**
 
 1. Make an adjacency matrix from words in file. 
 
